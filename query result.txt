@@ -1,0 +1,5 @@
+1. select * from order o left join Cusromer c on o.CustomerID=c.CustomerID;
+
+OR
+
+2. select * from order o,customer c where o.customerId=c.customerId;
