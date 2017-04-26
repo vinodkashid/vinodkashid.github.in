@@ -1,0 +1,5 @@
+c:\users\pramod\documents\visual studio 2012\Projects\BOOKSHOP\BOOKSHOP\bin\BOOKSHOP.dll
+c:\users\pramod\documents\visual studio 2012\Projects\BOOKSHOP\BOOKSHOP\bin\BOOKSHOP.pdb
+c:\users\pramod\documents\visual studio 2012\Projects\BOOKSHOP\BOOKSHOP\obj\Debug\BOOKSHOP.csprojResolveAssemblyReference.cache
+c:\users\pramod\documents\visual studio 2012\Projects\BOOKSHOP\BOOKSHOP\obj\Debug\BOOKSHOP.dll
+c:\users\pramod\documents\visual studio 2012\Projects\BOOKSHOP\BOOKSHOP\obj\Debug\BOOKSHOP.pdb
